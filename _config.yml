@@ -1,0 +1,6 @@
+title: Darkest Hour Infobank
+description: Compiled by the 29th Infantry Division
+baseurl: ''
+theme: minima
+header_pages:
+  - pages/index.md
